@@ -2,7 +2,7 @@
 
 ## Description 
 
-This tool allows users to generate a random password based on a set of input criteria. Once navigated to the page, users can specify which types of characters to use in the password generation by checking boxes to exclude certain types of characters. By default all character types are included because this will generate the most secure passwords. 
+This tool allows users to generate a random password based on a set of input criteria. Once navigated to the page https://roqieux.github.io/Password-Generator/, users can specify which types of characters to use in the password generation by checking boxes to exclude certain types of characters. By default all character types are included because this will generate the most secure passwords. 
 
 ## Image 
 
