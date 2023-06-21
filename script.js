@@ -14,15 +14,17 @@ var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
 function writePassword() { 
-  var userChoice = window.prompt("Choose a password length:");
+
+var userChoice = window.prompt("Choose a password length:");
 
   if (!userChoice) {
     return;
-  
-  } else if (userChoice < 8 || userChoice > 128) {
+  }
+    else if (userChoice < 8 || userChoice > 128) {
         window.alert("password must be between 8 and 128 characters long.");
-
-  } else {
+        return;
+  }
+    else {
   };
 
   var passChar = [];
