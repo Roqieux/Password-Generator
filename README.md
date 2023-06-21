@@ -8,7 +8,7 @@ This tool allows users to generate a random password based on a set of input cri
 
 Site mockup image is below.
 
-![The Password Generator application displays a red button to "Generate Password, checkboxes are above the password display box".](./Assets/Site ScreenShot Final.png)
+<img width="1094" alt="site screenshot" src="https://github.com/Roqieux/Password-Generator/blob/main/Assets/Site%20ScreenShot%20Final.png">
 
 ## Credits
 
